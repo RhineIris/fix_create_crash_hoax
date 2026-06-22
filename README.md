@@ -29,4 +29,4 @@ gradlew jar
 
 ## 许可
 
-MIT License — 随便用，整活无国界。
+MIT License

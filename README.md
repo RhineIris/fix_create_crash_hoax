@@ -2,16 +2,15 @@
 
 修复 [create_crash_fix_crash](https://modrinth.com/user/JN520) 的崩溃。
 
-## 套娃链
+##链
 
 ```
 createcrashfix                    — 机械动力崩溃修复
     ↓ 安装它
-create_crash_fix_crash            — 检测到上者就崩："你为什么要这么做？"
+create_crash_fix_crash            — 检测到上者就崩
     ↓ 安装本 mod
-fix_create_crash_hoax             — Mixin 吞掉上面的异常："我这么做是为了让你不崩"
+fix_create_crash_hoax             — Mixin 吞掉上面的异常
     ↓ ???
-下一个整活等你来
 ```
 
 ## 技术原理

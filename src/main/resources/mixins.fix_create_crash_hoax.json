@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.fixcreatecrashhoax.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.fix_create_crash_hoax.refmap.json",
+  "plugin": "com.fixcreatecrashhoax.mixin.MixinPlugin",
+  "mixins": [
+    "CrashProcedureMixin"
+  ],
+  "client": [],
+  "server": []
+}
